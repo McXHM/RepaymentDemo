@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RepaymentDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RepaymentDemo_jar</output-path>
+    <root id="archive" name="RepaymentDemo.jar">
+      <element id="module-output" name="RepaymentDemo" />
+    </root>
+  </artifact>
+</component>
